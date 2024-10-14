@@ -13,7 +13,7 @@
 顶部的fullscreen_header和底部的fullscreen_end用于填充屏幕，避免组件被模拟机的水滴屏遮挡
 首行使用了表格布局实现各个imageview和textview的排列
 之后两行使用约束布局，各自用居中的双箭头和星系图片和整个父容器约束
-最后一行时一个按钮
+最后一行布置一个按钮
 效果如下：
 <img width="461" alt="ef7730f29edb263618f24456c6a9bf0" src="https://github.com/user-attachments/assets/2c3b32cd-9f89-48eb-be26-07772a69a353">
 <img width="323" alt="fbfebfe8e7670f29a57e8d299d7804a" src="https://github.com/user-attachments/assets/68a6378e-c78f-41d4-a0b9-7cb8ccb6d3c2">
